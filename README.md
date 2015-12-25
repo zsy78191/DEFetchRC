@@ -1,0 +1,2 @@
+# DEFetchRC
+一个NSFetchedResultsController的简单封装
