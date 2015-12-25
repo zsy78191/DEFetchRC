@@ -51,5 +51,5 @@ Demo中使用Apple的CoreData模版，CoreData的Context在AppDelegate中。
 
 这样就完成了一步绑定，CoreData的Context有变动时自动更新调用Cell更新回调，更新Cell，增删改都自动完成。效果如下：
 
-
+![](https://raw.githubusercontent.com/zsy78191/DEFetchRC/master/DEFetchRCDemo.gif)
 
